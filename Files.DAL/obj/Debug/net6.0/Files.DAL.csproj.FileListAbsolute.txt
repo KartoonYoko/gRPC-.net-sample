@@ -1,0 +1,15 @@
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\Files.DAL.csproj.AssemblyReference.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\Files.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\Files.DAL.AssemblyInfoInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\Files.DAL.AssemblyInfo.cs
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\Files.DAL.csproj.CoreCompileInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\bin\Debug\net6.0\Files.DAL.deps.json
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\bin\Debug\net6.0\Files.DAL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\bin\Debug\net6.0\Files.DAL.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\bin\Debug\net6.0\Files.Domain.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\bin\Debug\net6.0\Files.Domain.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\Files.DAL.csproj.CopyComplete
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\Files.DAL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\refint\Files.DAL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\Files.DAL.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.DAL\obj\Debug\net6.0\ref\Files.DAL.dll

@@ -1,0 +1,15 @@
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\Notifications.BLL.csproj.AssemblyReference.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\Notifications.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\Notifications.BLL.AssemblyInfoInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\Notifications.BLL.AssemblyInfo.cs
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\Notifications.BLL.csproj.CoreCompileInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\bin\Debug\net6.0\Notifications.BLL.deps.json
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\bin\Debug\net6.0\Notifications.BLL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\bin\Debug\net6.0\Notifications.BLL.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\bin\Debug\net6.0\Notifications.Domain.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\bin\Debug\net6.0\Notifications.Domain.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\Notifications.BLL.csproj.CopyComplete
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\Notifications.BLL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\refint\Notifications.BLL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\Notifications.BLL.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.BLL\obj\Debug\net6.0\ref\Notifications.BLL.dll

@@ -1,0 +1,15 @@
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\bin\Debug\net6.0\TelegramBot.DAL.deps.json
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\bin\Debug\net6.0\TelegramBot.DAL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\bin\Debug\net6.0\TelegramBot.DAL.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\bin\Debug\net6.0\TelegramBot.Domain.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\bin\Debug\net6.0\TelegramBot.Domain.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\TelegramBot.DAL.csproj.AssemblyReference.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\TelegramBot.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\TelegramBot.DAL.AssemblyInfoInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\TelegramBot.DAL.AssemblyInfo.cs
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\TelegramBot.DAL.csproj.CoreCompileInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\TelegramBot.DAL.csproj.CopyComplete
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\TelegramBot.DAL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\refint\TelegramBot.DAL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\TelegramBot.DAL.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\TelegramBot.DAL\obj\Debug\net6.0\ref\TelegramBot.DAL.dll

@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package FileService;
+option csharp_namespace = "Notifications.gRPC.Protos.v1";
+
+import "google/protobuf/empty.proto";
+
+service FileService{
+	rpc DownloadFile(FileDownloadRequest) returns (FileDownloadReply) {}
+	rpc GetFileById(FileByIdRequest) returns (FileByIdReply) {}
+}
+
+message FileDownloadRequest{
+	string Url = 1;
+}
+message FileDownloadReply{
+	int64 Id = 1;
+	string Url = 2;
+}
+
+message FileByIdRequest{
+	int64 Id = 1;
+}
+message FileByIdReply{
+	int64 Id = 1;
+	string Url = 2;
+}

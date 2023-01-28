@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zfx6inI8xsBVtGOlYybEbcGdi1ECWWru+tGsquDHKXc=",
+  "Source": "TelegramBot.NotificationAPI",
+  "BasePath": "_content/TelegramBot.NotificationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

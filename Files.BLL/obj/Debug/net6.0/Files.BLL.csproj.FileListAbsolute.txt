@@ -1,0 +1,15 @@
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\bin\Debug\net6.0\Files.BLL.deps.json
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\bin\Debug\net6.0\Files.BLL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\bin\Debug\net6.0\Files.BLL.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\bin\Debug\net6.0\Files.Domain.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\bin\Debug\net6.0\Files.Domain.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\Files.BLL.csproj.AssemblyReference.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\Files.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\Files.BLL.AssemblyInfoInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\Files.BLL.AssemblyInfo.cs
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\Files.BLL.csproj.CoreCompileInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\Files.BLL.csproj.CopyComplete
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\Files.BLL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\refint\Files.BLL.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\Files.BLL.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Files.BLL\obj\Debug\net6.0\ref\Files.BLL.dll

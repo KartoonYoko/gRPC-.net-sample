@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos\v1/Notification.telegramGrpc.cs \
+obj\Debug\net6.0\Protos\v1/NotificationTelegram.cs: Protos/v1/notification.telegram.proto

@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package TelegramBotAccountService;
+option csharp_namespace = "TelegramBot.gRPC.Protos.v1";
+
+import "google/protobuf/empty.proto";
+
+service AccountService{
+	rpc Create(CreateRequest) returns (CreateReply) {}
+}
+
+message CreateRequest{
+	string Token = 1;
+}
+message CreateReply{
+	int64 Id = 1;
+	string Token = 2;
+}
+

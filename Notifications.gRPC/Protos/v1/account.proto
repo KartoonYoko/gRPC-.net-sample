@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package TelegramBotAccountService;
+option csharp_namespace = "Notifications.gRPC.Protos.v1";
+
+import "google/protobuf/empty.proto";
+
+service AccountService{
+	rpc Create(CreateRequest) returns (google.protobuf.Empty) {}
+	rpc AddWebhook(AddWebhookRequest) returns (google.protobuf.Empty) {}
+	rpc RemoveWebhook(RemoveWebhookRequest) returns (google.protobuf.Empty) {}
+}
+
+message CreateRequest{
+	int64 AccountId = 1;
+	string Token = 2;
+}
+
+message AddWebhookRequest{
+	int64 AccountId = 1;
+	int64 CretificateId = 2;
+}
+
+message RemoveWebhookRequest{
+	int64 AccountId = 1;
+}

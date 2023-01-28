@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.gRPC\\TelegramBot.gRPC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.BLL\\TelegramBot.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.BLL\\TelegramBot.BLL.csproj",
+        "projectName": "TelegramBot.BLL",
+        "projectPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.BLL\\TelegramBot.BLL.csproj",
+        "packagesPath": "C:\\Users\\crash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.Domain\\TelegramBot.Domain.csproj": {
+                "projectPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.Domain\\TelegramBot.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.DAL\\TelegramBot.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.DAL\\TelegramBot.DAL.csproj",
+        "projectName": "TelegramBot.DAL",
+        "projectPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.DAL\\TelegramBot.DAL.csproj",
+        "packagesPath": "C:\\Users\\crash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.Domain\\TelegramBot.Domain.csproj": {
+                "projectPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.Domain\\TelegramBot.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.Domain\\TelegramBot.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.Domain\\TelegramBot.Domain.csproj",
+        "projectName": "TelegramBot.Domain",
+        "projectPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.Domain\\TelegramBot.Domain.csproj",
+        "packagesPath": "C:\\Users\\crash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.gRPC\\TelegramBot.gRPC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.gRPC\\TelegramBot.gRPC.csproj",
+        "projectName": "TelegramBot.gRPC",
+        "projectPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.gRPC\\TelegramBot.gRPC.csproj",
+        "packagesPath": "C:\\Users\\crash\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.gRPC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.BLL\\TelegramBot.BLL.csproj": {
+                "projectPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.BLL\\TelegramBot.BLL.csproj"
+              },
+              "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.DAL\\TelegramBot.DAL.csproj": {
+                "projectPath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\TelegramBot.DAL\\TelegramBot.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.46.0, )"
+            },
+            "Grpc.AspNetCore.Server.Reflection": {
+              "target": "Package",
+              "version": "[2.46.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

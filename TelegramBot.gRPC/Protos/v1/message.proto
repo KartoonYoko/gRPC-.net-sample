@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package TelegramBotMessageService;
+option csharp_namespace = "TelegramBot.gRPC.Protos.v1";
+
+import "google/protobuf/empty.proto";
+
+service MessageService{
+	rpc SendMessage(SendMessageRequest) returns (SendMessageReply) {}
+}
+
+message SendMessageRequest{
+	int64 AccountId = 1;
+	int64 ChatId = 2;
+	string Text = 3;
+}
+
+message SendMessageReply{
+	int64 Id = 1;
+}

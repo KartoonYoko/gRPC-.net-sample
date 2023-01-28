@@ -1,0 +1,12 @@
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\bin\Debug\net6.0\Notifications.Domain.deps.json
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\bin\Debug\net6.0\Notifications.Domain.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\bin\Debug\net6.0\Notifications.Domain.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\obj\Debug\net6.0\Notifications.Domain.csproj.AssemblyReference.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\obj\Debug\net6.0\Notifications.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\obj\Debug\net6.0\Notifications.Domain.AssemblyInfoInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\obj\Debug\net6.0\Notifications.Domain.AssemblyInfo.cs
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\obj\Debug\net6.0\Notifications.Domain.csproj.CoreCompileInputs.cache
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\obj\Debug\net6.0\Notifications.Domain.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\obj\Debug\net6.0\refint\Notifications.Domain.dll
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\obj\Debug\net6.0\Notifications.Domain.pdb
+C:\Users\crash\Desktop\Aggregator\Aggregator\Notifications.Domain\obj\Debug\net6.0\ref\Notifications.Domain.dll

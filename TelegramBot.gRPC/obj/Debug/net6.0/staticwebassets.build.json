@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h9Tkwb7u9INcwzm7tuR1ByAVzoiMPcaI+1NynSitqbQ=",
+  "Source": "TelegramBot.gRPC",
+  "BasePath": "_content/TelegramBot.gRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

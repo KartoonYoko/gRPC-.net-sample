@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6fKReZk9a1B5mVPrdB6bRkjow198QEYwkNH6b/IbL+kz/haCZpeB+YdNJsJDOhSGOMVfKdZNwm1Kw0lKMQpDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crash\\Desktop\\Aggregator\\Aggregator\\Notifications.Domain\\Notifications.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crash\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\crash\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

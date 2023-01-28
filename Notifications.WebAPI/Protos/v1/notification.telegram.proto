@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+package NotificationsTelegram;
+option csharp_namespace = "Notifications.WebAPI.Protos.v1.Telegram";
+
+service TelegramNotification{}
